@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    environment:
+      - TOKEN=PUT_THE_BOT_TOKEN_HERE
