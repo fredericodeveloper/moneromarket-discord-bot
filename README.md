@@ -21,3 +21,25 @@ services:
 - Clone the repository using `git clone https://github.com/fredericodeveloper/moneromarket-discord-bot`
 - Enter the bot directory using `cd moneromarket-discord-bot`
 - Use `TOKEN=TOKENHERE node index.js`
+
+## License for this project: [AGPL-3 License](https://choosealicense.com/licenses/agpl-3.0/)
+
+### Permissions
+- Commercial use
+- Modification
+- Distribution
+- Patent use
+- Private use
+
+### Limitations
+- Liability
+- Warranty
+
+### Conditions
+- **License and copyright notice**
+- **State changes**
+- **Disclose source**
+- Network use is distribution
+- Same license
+
+### For more detailed info about the [AGPL-3 License](https://choosealicense.com/licenses/agpl-3.0/) you can read https://choosealicense.com/licenses/agpl-3.0/ or the LICENSE file in this repo.
